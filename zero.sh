@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash whwhhwhe
 
 ADMIN_WHATSAPP_NUMBER="081997715124"
 
